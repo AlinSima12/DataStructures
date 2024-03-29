@@ -1,0 +1,6 @@
+﻿  TestExtins.cpp
+C:\Info\AN1\SEM2\SDA\lab\lab3\Dictionar_LSI_Tablou\TestExtins.cpp(15,62): error C2248: 'Dictionar::urm': cannot access private member declared in class 'Dictionar'
+C:\Info\AN1\SEM2\SDA\lab\lab3\Dictionar_LSI_Tablou\Dictionar.h(22,8): message : see declaration of 'Dictionar::urm'
+C:\Info\AN1\SEM2\SDA\lab\lab3\Dictionar_LSI_Tablou\Dictionar.h(15,7): message : see declaration of 'Dictionar'
+  TestScurt.cpp
+  Generating Code...
