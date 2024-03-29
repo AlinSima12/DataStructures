@@ -1,0 +1,5 @@
+﻿  Multime.cpp
+  TestScurt.cpp
+  Generating Code...
+C:\Info\AN1\SEM2\SDA\lab\lab7\multime_arbore_binar\Multime.cpp(104): warning C4715: 'Multime::suma_recursiv': not all control paths return a value
+  multime_arbore_binar.vcxproj -> C:\Info\AN1\SEM2\SDA\lab\lab7\multime_arbore_binar\x64\Debug\multime_arbore_binar.exe

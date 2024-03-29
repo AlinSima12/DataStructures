@@ -1,0 +1,3 @@
+C:\Users\vanes\Documents\facultate\an 1\sem 2\structuri de date si algoritmi\lab\lab5\multime_arbore_binar\x64\Debug\multime_arbore_binar.exe
+C:\Users\simaa\Downloads\multime_arbore_binar\x64\Debug\multime_arbore_binar.exe
+C:\Info\AN1\SEM2\SDA\lab\lab7\multime_arbore_binar\x64\Debug\multime_arbore_binar.exe
